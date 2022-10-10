@@ -2,7 +2,7 @@
 layout: post
 title:  "Few-shot Aspect-based Sentiment Analysis with generative language model"
 date:   2022-04-20 22:21:59 +00:00
-image: images/exp1.gif
+image: /images/exp1.gif
 categories: research
 author: "Ehsan Hosseini-Asl"
 authors: "<strong>Ehsan Hosseini-Asl</strong>, Wenhao Li, Caiming Xiong"
