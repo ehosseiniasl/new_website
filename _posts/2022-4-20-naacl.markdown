@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Few-shot Aspect-based Sentiment Analysis with generative language model"
+date:   2022-04-20 22:21:59 +00:00
+image: images/exp1.gif
+categories: research
+author: "Ehsan Hosseini-Asl"
+authors: "<strong>Ehsan Hosseini-Asl</strong>, Wenhao Li, Caiming Xiong"
+venue: "NAACL 2022"
+arxiv: https://arxiv.org/abs/2204.05356
+slides: 
+code: https://github.com/salesforce/fewshot_absa
+---
+Formulating Aspect-Based Sentiment analysis as autoregressive language modeling. It is a multitask model which achieves better few-shot performance with significant smaller standard deviation.
