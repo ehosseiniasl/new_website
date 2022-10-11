@@ -5,7 +5,7 @@ date:   2020-09-25 22:21:59 +00:00
 image: /images/simpletod_autoregressive.gif
 categories: research
 author: "Ehsan Hosseini-Asl"
-authors: "<strong>Ehsan Hosseini-Asl</strong>, Bryan McCann, Chin-chen Wu, Semih Yavuz, Richard Socher"
+authors: "<strong>Ehsan Hosseini-Asl</strong>, Bryan McCann, Chien-Sheng Wu, Semih Yavuz, Richard Socher"
 venue: "NeurIPS 2020"
 arxiv: https://arxiv.org/abs/2005.00796
 slides:
@@ -13,4 +13,4 @@ presentation: https://crossminds.ai/video/a-simple-language-model-for-task-orien
 code: https://github.com/salesforce/simpletod
 blog: https://blog.salesforceairesearch.com/simpletod/
 ---
- 
+Formulating Task-Oriented Dialogue as autoregressive language model. This way, the three subtasks, belief state prediction, action and response generation are modeled jointly.
