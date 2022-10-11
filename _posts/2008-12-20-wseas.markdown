@@ -1,5 +1,6 @@
 ---
 layout: post
+title: "Non uniform noisy data training using wavelet neural network based on sampling theory"
 date:   2009-6-20 22:21:59 +00:00Non uniform noisy data training using wavelet neural network based on sampling theory
 image: ./images/wavelet2.jpeg
 categories: master
