@@ -5,9 +5,9 @@ date:   2017-09-20 22:21:59 +00:00
 image: ./images/autism.jpeg
 categories: medical
 author: "Mohamad Ismail"
-authors: "M. Ismail, M. Nitzken, A. E. Switala, **E. Hosseini-Asl**, M. Mahmoud, A. Shalaby, M. Casanova, A. El-Baz"
+authors: "M. Ismail, M. Nitzken, A. E. Switala, <strong>E. Hosseini-Asl</strong>, M. Mahmoud, A. Shalaby, M. Casanova, A. El-Baz"
 venue: "ICIP"
-arxiv: 
+arxiv: https://ieeexplore.ieee.org/abstract/document/8296443
 slides:
 code: 
 blog: 

@@ -6,10 +6,10 @@ image: ./images/tbme.jpeg
 categories: phd
 author: "Ehsan Hosseini-Asl"
 authors: "<strong>Ehsan Hosseini-Asl</strong>, Jacek M. Zurada, Georgy Gimel'farb, Ayman El-Baz"
-venue: "IEEE, Transactions on Neural Network and Learning Systems"
-arxiv: https://arxiv.org/abs/1601.02733
+venue: "IEEE, Transactions on Biomedical Engineering (TBME)"
+arxiv: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7277016
 slides:
-code: https://github.com/ehosseiniasl/Nonnegativity-Constrained-Autoencoder-NCAE
+code: 
 blog: 
 ---
  

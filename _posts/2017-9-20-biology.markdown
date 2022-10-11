@@ -1,0 +1,14 @@
+---
+layout: post
+date:   2017-09-20 22:21:59 +00:00A comprehensive non-invasive framework for diagnosing prostate cancer
+image: ./images/prostate_biology.jpeg
+categories: medical
+author: "Islam Reda"
+authors: "Islam Reda, Ahmed Shalaby, Mohammed Elmogy, Ahmed Abou Elfotouha, Fahmi Khalifa, Mohamed Abou El-Ghard, <strong>Ehsan Hosseini-Asl</strong>, Georgy Gimel'farb, Naoufel Werghig, Ayman El-Baz"
+venue: "Computers in biology and medicine"
+arxiv: https://www.sciencedirect.com/science/article/abs/pii/S0010482516303304
+slides:
+code: 
+blog: 
+---
+
