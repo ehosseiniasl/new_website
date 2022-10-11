@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Alzheimer's Disease Diagnosis by Adaptation of 3D Convolutional Network"
+date:   2016-06-20 22:21:59 +00:00
+image: ./images/alzheimer1.jpeg
+categories: phd
+author: "Ehsan Hosseini-Asl"
+authors: "<strong>Ehsan Hosseini-Asl</strong>, Robert Keynton, Ayman El-Baz"
+venue: "ICIP"
+arxiv: http://arxiv.org/abs/1607.00455
+slides:
+code: https://github.com/ehosseiniasl/3D-Convolutional-Autoencoder
+blog: 
+---
+Training a 3D convolutional neural network for Alzheimer classification. This network is pretrained with novel greedy layer-wise pretraining.
