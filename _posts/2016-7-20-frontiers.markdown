@@ -2,8 +2,8 @@
 layout: post
 title:  "Alzheimer's Disease Diagnostics by a Deeply Supervised Adaptable 3D Convolutional Network"
 date:   2016-07-20 22:21:59 +00:00
-image: /images/alzheimer.png
-categories: Phd research
+image: /images/alzheimer.jpeg
+categories: phd
 author: "Ehsan Hosseini-Asl"
 authors: "<strong>Ehsan Hosseini-Asl</strong>, Georgy Gimel'farb, Ayman El-Baz"
 venue: "Frontiers in Biomedicine"
