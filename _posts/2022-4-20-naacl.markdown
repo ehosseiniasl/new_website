@@ -5,7 +5,7 @@ date:   2022-04-20 22:21:59 +00:00
 image: /images/exp1.gif
 categories: research
 author: "Ehsan Hosseini-Asl"
-authors: "<strong>Ehsan Hosseini-Asl</strong>, Wenhao Li, Caiming Xiong"
+authors: "<strong>Ehsan Hosseini-Asl</strong>, Wenhao Liu, Caiming Xiong"
 venue: "NAACL 2022"
 arxiv: https://arxiv.org/abs/2204.05356
 slides: 
