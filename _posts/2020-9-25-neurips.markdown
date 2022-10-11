@@ -2,7 +2,7 @@
 layout: post
 title:  "SimpleTOD: An end-to-end Language model for Task-Orinted Dialogue (NeurIPS 2020 Spothlight)"
 date:   2020-09-25 22:21:59 +00:00
-image: /images/simpletod_autoregressice.gif
+image: /images/simpletod_autoregressive.gif
 categories: research
 author: "Ehsan Hosseini-Asl"
 authors: "<strong>Ehsan Hosseini-Asl</strong>, Yingbo Zhu, Caiming Xiong, Richard Socher"
