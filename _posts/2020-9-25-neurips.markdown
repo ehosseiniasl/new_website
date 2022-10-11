@@ -6,7 +6,7 @@ image: ./images/simpletod_autoregressive.gif
 categories: research
 author: "Ehsan Hosseini-Asl"
 authors: "<strong>Ehsan Hosseini-Asl</strong>, Bryan McCann, Chien-Sheng Wu, Semih Yavuz, Richard Socher"
-venue: "NeurIPS <span style="color:red"> Spotlight presentation</span>"
+venue: "NeurIPS <p style="color:red"> Spotlight presentation</p>"
 arxiv: https://arxiv.org/abs/2005.00796
 slides:
 presentation: https://crossminds.ai/video/a-simple-language-model-for-task-oriented-dialogue-606fd356f43a7f2f827be6ad/
