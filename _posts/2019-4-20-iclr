@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Augmented Cyclic Adversarial learning for low-resource domain adaptation"
+date:   2019-04-20 22:21:59 +00:00
+image: /images/ACAL.png
+categories: research
+author: "Ehsan Hosseini-Asl"
+authors: "<strong>Ehsan Hosseini-Asl</strong>, Yingbo Zhu, Caiming Xiong, Richard Socher"
+venue: "ICLR 2019"
+arxiv: https://openreview.net/pdf?id=B1G9doA9F7
+slides:
+code:
+---
+Augmenting Cyclic adversarial learning algorithm with a more stable cycle consitency loss using source model. This formulation stablize adversarial learning when number of labeled data in target domain is scarce.
