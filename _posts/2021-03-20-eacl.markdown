@@ -2,7 +2,7 @@
 layout: post
 title:  "Joint Energy-based Model Training for Better Calibrated Natural Language Understanding Models"
 date:   2021-03-20 22:21:59 +00:00
-image: /images/eacl.png
+image: ./images/eacl.png
 categories: research
 author: "Tianxing He"
 authors: "Tianxing He, Bryan McCann, Caming Xiong, <strong>Ehsan Hosseini-Asl</strong>"

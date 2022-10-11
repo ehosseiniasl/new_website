@@ -2,7 +2,7 @@
 layout: post
 title:  "Toward Scalable Neural Dialogue State Tracking Model"
 date:   2018-12-5 22:21:59 +00:00
-image: /images/gce.jpeg
+image: ./images/gce.jpeg
 categories: research
 author: "Elnaz Nouri"
 authors: "Elnaz Nouri, <strong>Ehsan Hosseini-Asl</strong>"

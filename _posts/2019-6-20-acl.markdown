@@ -2,7 +2,7 @@
 layout: post
 title:  "Transferable multi-domain state generator for task-oriented dialogue systems"
 date:   2020-09-25 22:21:59 +00:00
-image: /images/acl.png
+image: ./images/acl.png
 categories: research
 author: ""
 authors: "Chien-Sheng Wu, Andrea Madotto, <strong>Ehsan Hosseini-Asl</strong>, Caiming Xiong, Richard Socher, Pascale Fung"
