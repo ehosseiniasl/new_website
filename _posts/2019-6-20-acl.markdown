@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Transferable multi-domain state generator for task-oriented dialogue systems"
+date:   2020-09-25 22:21:59 +00:00
+image: /images/acl.png
+categories: research
+author: ""
+authors: "Chien-Sheng Wu, Andrea Madotto, <strong>Ehsan Hosseini-Asl</strong>, Caiming Xiong, Richard Socher, Pascale Fung"
+venue: "ACL <strong>(outstanding paper)</strong>"
+arxiv: https://aclanthology.org/P19-1078/
+slides:
+presentation: 
+code: https://github.com/jasonwu0731/trade-dst
+blog: 
+---
+Proposing a encoder-decoder model for belief state generation in Task-Oriented Dialogue. The model is trained on multiple domains jointly, which achieves better few-shot performance using knowledge share across domains.
