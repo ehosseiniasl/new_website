@@ -6,7 +6,7 @@ image: /images/ACAL.png
 categories: research
 author: "Ehsan Hosseini-Asl"
 authors: "<strong>Ehsan Hosseini-Asl</strong>, Yingbo Zhu, Caiming Xiong, Richard Socher"
-venue: "ICLR 2019"
+venue: "ICLR"
 arxiv: https://openreview.net/pdf?id=B1G9doA9F7
 slides:
 code:

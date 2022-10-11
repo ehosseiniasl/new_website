@@ -13,4 +13,4 @@ presentation:
 code: https://github.com/jasonwu0731/trade-dst
 blog: 
 ---
-Proposing a encoder-decoder model for belief state generation in Task-Oriented Dialogue. The model is trained on multiple domains jointly, which achieves better few-shot performance using knowledge share across domains.
+Proposing an encoder-decoder model for belief state generation in Task-Oriented Dialogue. The model is trained on multiple domains jointly, which achieves better few-shot performance using knowledge share across domains.

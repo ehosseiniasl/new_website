@@ -6,7 +6,7 @@ image: /images/spectrogram.png
 categories: research
 author: "Ehsan Hosseini-Asl"
 authors: "<strong>Ehsan Hosseini-Asl</strong>, Yingbo Zhu, Caiming Xiong, Richard Socher"
-venue: "Interspeech 2018"
+venue: "Interspeech"
 arxiv: https://arxiv.org/abs/1804.00522
 slides:
 code:

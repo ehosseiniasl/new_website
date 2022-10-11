@@ -6,7 +6,7 @@ image: /images/eacl.png
 categories: research
 author: "Tianxing He"
 authors: "Tianxing He, Bryan McCann, Caming Xiong, <strong>Ehsan Hosseini-Asl</strong>"
-venue: "EACL 2021"
+venue: "EACL"
 arxiv: https://arxiv.org/abs/2101.06829
 slides:
 presentation: 
