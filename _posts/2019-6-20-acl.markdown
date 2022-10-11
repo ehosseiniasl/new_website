@@ -6,7 +6,7 @@ image: ./images/acl.png
 categories: research
 author: ""
 authors: "Chien-Sheng Wu, Andrea Madotto, <strong>Ehsan Hosseini-Asl</strong>, Caiming Xiong, Richard Socher, Pascale Fung"
-venue: "ACL <span style="color:red">(outstanding paper)</span>"
+venue: "ACL <strong>(outstanding paper)</strong>"
 arxiv: https://aclanthology.org/P19-1078/
 slides:
 presentation: 
