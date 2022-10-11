@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Automatic Segmentation of Pathological Lung Using Incremental Nonnegative Matrix Factorization"
+date:   2015-07-20 22:21:59 +00:00
+image: ./images/lung1.jpeg
+categories: phd
+author: "Ehsan Hosseini-Asl"
+authors: "<strong>Ehsan Hosseini-Asl</strong>, Jacek M. Zurada, Ayman El-Baz"
+venue: "ICIP"
+arxiv: http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7351376&searchWithin=%22Authors%22:.QT.E.%20Hosseini-Asl.QT.&newsearch=true
+slides:
+code: 
+blog: 
+---
+ 

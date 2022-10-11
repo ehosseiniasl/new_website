@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "A New CAD System for Early Diagnosis of Autism Using Structural MRI"
+date:   2017-09-20 22:21:59 +00:00
+image: ./images/autism.jpeg
+categories: phd
+author: "Mohamad Ismail"
+authors: "M. Ismail, M. Nitzken, A. E. Switala, **E. Hosseini-Asl**, M. Mahmoud, A. Shalaby, M. Casanova, A. El-Baz"
+venue: "ICIP"
+arxiv: 
+slides:
+code: 
+blog: 
+---
+
