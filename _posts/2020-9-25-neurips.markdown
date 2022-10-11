@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "SimpleTOD: An end-to-end Language model for Task-Orinted Dialogue (NeurIPS 2020 Spothlight)"
+date:   2020-09-25 22:21:59 +00:00
+image: /images/simpletod_autoregressice.gif
+categories: research
+author: "Ehsan Hosseini-Asl"
+authors: "<strong>Ehsan Hosseini-Asl</strong>, Yingbo Zhu, Caiming Xiong, Richard Socher"
+venue: "NeurIPS 2020"
+arxiv: https://arxiv.org/abs/2005.00796
+slides:
+spotlight presentation: https://crossminds.ai/video/a-simple-language-model-for-task-oriented-dialogue-606fd356f43a7f2f827be6ad/
+code: https://github.com/salesforce/simpletod
+blog: https://blog.salesforceairesearch.com/simpletod/
+---
+ 
