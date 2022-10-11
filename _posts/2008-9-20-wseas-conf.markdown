@@ -7,7 +7,7 @@ categories: master
 author: "Ehsan Hosseini-Asl"
 authors: "<strong>Ehsan Hosseini-Asl</strong>, Mehdi Shahbazian, Karim Salahshour"
 venue: "WSEAS"
-arxiv: 
+arxiv: https://www.researchgate.net/publication/228374015_Non_uniform_noisy_data_training_using_wavelet_neural_network_based_on_sampling_theory
 slides:
 code: 
 blog: 
