@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Deep Learning of Part-based Representation of Data Using Sparse Autoencoders with Nonnegativity Constraints"
+date:   2014-07-20 22:21:59 +00:00
+image: ./images/tnnls.jpeg
+categories: phd
+author: "Ehsan Hosseini-Asl"
+authors: "<strong>Ehsan Hosseini-Asl</strong>, Jacek M. Zurada, Ayman El-Baz"
+venue: "IEEE, Transactions on Neural Network and Learning Systems"
+arxiv: https://arxiv.org/abs/1601.02733
+slides:
+code: https://github.com/ehosseiniasl/Nonnegativity-Constrained-Autoencoder-NCAE
+blog: 
+---
+ 

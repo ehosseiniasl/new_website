@@ -1,0 +1,14 @@
+---
+layout: post
+date:   2009-6-20 22:21:59 +00:00Non uniform noisy data training using wavelet neural network based on sampling theory
+image: ./images/wavelet2.jpeg
+categories: master
+author: "Ehsan Hosseini-Asl"
+authors: "<strong>Ehsan Hosseini-Asl</strong>, Mehdi Shahbazian, Karim Salahshour"
+venue: "WSEAS Transactions on Systems"
+arxiv: https://www.researchgate.net/profile/K-Salahshoor/publication/228374015_Non_uniform_noisy_data_training_using_wavelet_neural_network_based_on_sampling_theory/links/540cbc9f0cf2df04e754740b/Non-uniform-noisy-data-training-using-wavelet-neural-network-based-on-sampling-theory.pdf
+slides:
+code: 
+blog: 
+---
+ 

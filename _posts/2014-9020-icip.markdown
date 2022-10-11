@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Lung Segmentation Based on Nonnegative Matrix Factorization"
+date:   2014-07-20 22:21:59 +00:00
+image: ./images/lung2.jpeg
+categories: phd
+author: "Ehsan Hosseini-Asl"
+authors: "<strong>Ehsan Hosseini-Asl</strong>, Jacek M. Zurada, Ayman El-Baz"
+venue: "ICIP"
+arxiv: http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7025176&searchWithin=%22Authors%22:.QT.E.%20Hosseini-Asl.QT.&newsearch=true
+slides:
+code: 
+blog: 
+---
+ 

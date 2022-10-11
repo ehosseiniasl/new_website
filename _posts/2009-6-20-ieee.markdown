@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Nonlinear dynamic system control using wavelet neural network based on sampling theory"
+date:   2009-6-20 22:21:59 +00:00
+image: ./images/wavelet3.jpeg
+categories: master
+author: "Ehsan Hosseini-Asl"
+authors: "<strong>Ehsan Hosseini-Asl</strong>, Mehdi Shahbazian"
+venue: "IEEE, Intern. Conf. on Systems, Man, and Cybernetics (SMC)"
+arxiv: https://ieeexplore.ieee.org/abstract/document/5346904
+slides:
+code: 
+blog: 
+---
+ 
