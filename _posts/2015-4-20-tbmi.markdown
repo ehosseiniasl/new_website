@@ -2,7 +2,7 @@
 layout: post
 title:  "3D Lung Segmentation Using Incremental Constrained Nonnegative Matrix Factorization"
 date:   2015-04-20 22:21:59 +00:00
-image: ./images/tbmi.jpeg
+image: ./images/tbme.jpeg
 categories: phd
 author: "Ehsan Hosseini-Asl"
 authors: "<strong>Ehsan Hosseini-Asl</strong>, Jacek M. Zurada, Georgy Gimel'farb, Ayman El-Baz"
