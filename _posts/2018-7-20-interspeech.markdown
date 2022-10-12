@@ -9,6 +9,7 @@ authors: "<strong>Ehsan Hosseini-Asl</strong>, Yingbo Zhu, Caiming Xiong, Richar
 venue: "Interspeech"
 arxiv: https://arxiv.org/abs/1804.00522
 slides:
+poster: ./pdfs/Interspeech2018_poster.pdf
 code:
 blog: https://blog.salesforceairesearch.com/a-multi-discriminator-cyclegan-for-unsupervised-non-parallel-speech-domain-adaptation/
 ---

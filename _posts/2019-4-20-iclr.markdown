@@ -10,5 +10,6 @@ venue: "ICLR"
 arxiv: https://openreview.net/pdf?id=B1G9doA9F7
 slides:
 code:
+poster: ./pdfs/ICLR2019_poster.pdf
 ---
 Augmenting Cyclic adversarial learning algorithm with a more stable cycle consitency loss using source model. This formulation stablize adversarial learning when number of labeled data in target domain is scarce.
