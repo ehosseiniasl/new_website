@@ -10,6 +10,7 @@ venue: "NeurIPS, 2nd Conversational AI workshop"
 arxiv: https://arxiv.org/abs/1812.00899
 slides:
 presentation: 
+poster: ./pdfs/NeurIPS2018_workshop_poster.pdf
 code: https://github.com/elnaaz/GCE-Model
 blog: 
 ---
