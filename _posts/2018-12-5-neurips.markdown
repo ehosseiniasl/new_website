@@ -13,4 +13,5 @@ presentation:
 code: https://github.com/elnaaz/GCE-Model
 blog: 
 ---
+We proposed a global RNN encoder for belief state tracking across multiple slots. It improves inference latency by 35\% on average compared to the previous state-of-the-art model (<a href="https://arxiv.org/abs/1805.09655">GLAD</a>) 
 
