@@ -12,4 +12,4 @@ slides:
 code: https://github.com/ehosseiniasl/Nonnegativity-Constrained-Autoencoder-NCAE
 blog: 
 ---
- 
+Learning part-based features in hidden layers of neural network, by constraining negative weights during training. 

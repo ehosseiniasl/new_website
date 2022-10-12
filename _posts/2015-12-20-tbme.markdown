@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "3D Lung Segmentation Using Incremental Constrained Nonnegative Matrix Factorization"
-date:   2015-04-20 22:21:59 +00:00
+date:   2015-12-20 22:21:59 +00:00
 image: ./images/tbme.jpeg
 categories: phd
 author: "Ehsan Hosseini-Asl"
@@ -12,4 +12,4 @@ slides:
 code: 
 blog: 
 ---
- 
+An efficient segmentation algorithm based on our previous INMF approach for 3D lung ct scans. It works on voxels instead od pixel.

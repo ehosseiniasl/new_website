@@ -12,4 +12,4 @@ slides:
 code: 
 blog: 
 ---
- 
+Our first algorithm for 3D lung segmentation using Non-negative Matrix Factorization. We treat each pixel and its 3D neighborhood as feature vector in NMF.

@@ -12,4 +12,5 @@ slides:
 code: 
 blog: 
 ---
+Our previous NMF-based model requires manual setting of the number of clusters for segmentation. Our new algorithm automatically detects number of clusters in the image, and in-homogeneities. 
  
