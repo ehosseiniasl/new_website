@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "ARTIFICIAL INTELLIGENCE (AI) ACCURATELY AUTOMATE AND SPEED IMMUNOFLUORESCENCE (IF)-BASED DISCOVERY AND VALIDATION OF NOVEL PROGNOSTIC AND PREDICTIVE BIOMARKERS IN PROSTATE CANCER
+title:  "Artificial Intelligence (AI) Accurately Automate And Speed Immunofluorescence (IF)-based Discovery And Validation of Novel Prognostic And Predictive Biomarkers In Prostate Cancer
 "
-date:   2022-04-20 22:21:59 +00:00
-image: /images/urology.gif
+date:   2019-02-20 22:21:59 +00:00
+image: ./images/urology.gif
 categories: research
 author: "Ehsan Hosseini-Asl"
 authors: "H. Nguyen, B. Schmidt, <strong>E. Hosseini-Asl</strong>, C. So, R. Socher, C. Xiong, L. Xue, P. R. Carroll, M. R. Cooperberg"
