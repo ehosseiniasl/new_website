@@ -4,7 +4,7 @@ title:  "Artificial Intelligence (AI) Accurately Automate And Speed Immunofluore
 "
 date:   2019-02-20 22:21:59 +00:00
 image: ./images/urology.gif
-categories: research
+categories: medical
 author: "Ehsan Hosseini-Asl"
 authors: "H. Nguyen, B. Schmidt, <strong>E. Hosseini-Asl</strong>, C. So, R. Socher, C. Xiong, L. Xue, P. R. Carroll, M. R. Cooperberg"
 venue: "Journal of Urology"
